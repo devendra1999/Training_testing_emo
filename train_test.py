@@ -1611,3 +1611,4 @@ Saved model to disk
 >>> #the dataset running on FER2013 and the sample accuracy and loss are for testing only 
 		   #the results are to be furtherimplemented by ttraining the model
 		   #also not risking the issue of overfitting etc
+		   #<Figure size 640x480 with 0 Axes>
